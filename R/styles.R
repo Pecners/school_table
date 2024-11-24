@@ -69,10 +69,37 @@ perc_column <- function(minWidth = 65,
   )
 }
 
-prof_column <- function(minWidth = 65, ...) {
+ela_prof_column <- function(minWidth = 65, ...) {
   colDef(
     class = "spi-rating",
-    cell = label_percent(.1),
+    # cell = label_percent(.1),
+    cell = function(value, index) {
+      s <- clean$count_ELA[index]
+      div(
+        div(label_percent(.1)(value)), 
+        div(s, style = "font-size: 0.75rem;line-height: .9rem"))
+    },
+    minWidth = minWidth, 
+    style = function(x) {
+      list(
+        fontSize = "1rem",
+        background = perc_col_ratings(x),
+        color = ifelse(x > .1, "#000", rgb(255, 255, 255, .9 * 250, maxColorValue = 255))
+      )},
+    ...
+  )
+}
+
+math_prof_column <- function(minWidth = 65, ...) {
+  colDef(
+    class = "spi-rating",
+    # cell = label_percent(.1),
+    cell = function(value, index) {
+      s <- clean$count_Mathematics[index]
+      div(
+        div(label_percent(.1)(value)), 
+        div(s, style = "font-size: 0.75rem;line-height: .9rem"))
+    },
     minWidth = minWidth, 
     style = function(x) {
       list(

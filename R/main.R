@@ -10,7 +10,7 @@ library(htmltools)
 source("R/styles.R")
 
 
-d <- read_rds("data/milwaukee_schools_2023.rda")
+d <- read_rds("data/milwaukee_schools_2024.rda")
 star <- "\u2605"
 d <- d |> 
   arrange(desc(overall_score)) |> 
@@ -93,8 +93,8 @@ tbl <- clean |>
                            minWidth = 75),
     per_hisp_lat = perc_column(name = "Latino",
                                minWidth = 75),
-    ELA = prof_column(),
-    Mathematics = prof_column(name = "Math"),
+    ELA = ela_prof_column(),
+    Mathematics = math_prof_column(name = "Math"),
     overall_rating = rating_column(name = "Overall Rating",
                                    class = "rating-col"),
     overall_score = colDef(name = "Overall",
@@ -125,7 +125,7 @@ tbl <- clean |>
                            "sch_ach",
                            "sch_growth"),
                headerStyle = group_head_style),
-      colGroup(name = "PROFICIENCY",
+      colGroup(name = "PROFICIENCY %/#",
                columns = c("ELA",
                            "Mathematics"),
                headerStyle = group_head_style),
@@ -180,15 +180,17 @@ tbl <- clean |>
     elementId = "schools-table")
 
 tbl
-save_reactable(tbl, "test.html")
 
-w <- browsable(
-  tagList(
-    tags$button("Download", 
-                onclick = "Reactable.downloadDataCSV('schools-table', 'Milwaukee Schools 2022-23.csv')"),
-    
-    tbl
-  )
-)
+# search for the <body> tag in the file to copy
+save_reactable_test(tbl, "test.html")
 
-htmltools::save_html(w, "test.html")
+# w <- browsable(
+#   tagList(
+#     tags$button("Download", 
+#                 onclick = "Reactable.downloadDataCSV('schools-table', 'Milwaukee Schools 2022-23.csv')"),
+#     
+#     tbl
+#   )
+# )
+# 
+# htmltools::save_html(w, "test.html")
