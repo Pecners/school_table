@@ -268,3 +268,13 @@ x <- all_prof |>
          ))
 
 saveRDS(x, "data/milwaukee_schools_2024.rda")
+
+f <- 20
+
+x |> 
+  filter(
+    (count_ELA < f | is.na(count_ELA)) &
+      (count_Mathematics < f | is.na(count_Mathematics)) &
+      !(is.na(count_ELA) & is.na(count_Mathematics)) &
+      overall_rating != "NR-DATA"
+  ) |> View()
