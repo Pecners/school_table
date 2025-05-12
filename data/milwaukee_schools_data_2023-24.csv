@@ -1,52 +1,52 @@
 school_year,dpi_true_id,lat,long,school_name,accurate_agency_type,grade_band,school_enrollment,ELA,Mathematics,overall_rating,overall_score,sch_ach,sch_growth,per_ed,per_swd,per_lep,per_b_aa,per_hisp_lat
 2023-24,0000_0309,43.062933982845,-87.885827993921,Catholic East Elementary,Private School,K-8,223,0.392,0.392,Exceeds Expectations,74.7,63.4,81.2,0.655,0.063,0.009,0.628,0.108
-2023-24,0000_0510,43.095022003676,-88.039426034335,Divine Savior Holy Angels High School,Private School*,9-12,148,0.627,0.54,Exceeds Expectations,79.1,80,57.5,0.155,0,0,0.264,0.486
+2023-24,0000_0510,43.095022003676,-88.039426034335,Divine Savior Holy Angels High School,Private School,9-12,148,0.627,0.54,Exceeds Expectations,79.1,80,57.5,0.155,0,0,0.264,0.486
 2023-24,0000_0740,43.095736980017,-87.943836966503,Garden Homes Lutheran School,Private School,K-8,256,0.261,0.174,Exceeds Expectations,78.6,42.9,76.5,1,0.008,0,0.891,0.035
 2023-24,0000_1044,43.063796019677,-87.914529977327,Clara Mohammed School,Private School,K-12,64,0.158,0.105,Exceeds Expectations,75.4,15.9,85.9,0.609,0,0,0.969,0
-2023-24,0000_1048,43.053190020403,-87.897125039202,Tamarack Waldorf School,Private School*,K-8,167,0.323,0.115,Exceeds Expectations,78,48.5,79.2,0.677,0.006,0,0.174,0.281
+2023-24,0000_1048,43.053190020403,-87.897125039202,Tamarack Waldorf School,Private School,K-8,167,0.323,0.115,Exceeds Expectations,78,48.5,79.2,0.677,0.006,0,0.174,0.281
 2023-24,0000_1095,43.019396994738,-87.929808007521,Notre Dame School of Milwaukee,Private School,K-8,555,0.498,0.545,Exceeds Expectations,76.2,56,76.5,0.793,0.095,0.492,0.013,0.966
-2023-24,0000_1158,43.150383007317,-88.000223034993,Early View Academy of Excellence,Private School*,K-12,269,0.042,0.03,Fails to Meet Expectations,47.5,11,64.1,1,0.007,0,0.926,0.045
+2023-24,0000_1158,43.150383007317,-88.000223034993,Early View Academy of Excellence,Private School,K-12,269,0.042,0.03,Fails to Meet Expectations,47.5,11,64.1,1,0.007,0,0.926,0.045
 2023-24,0000_1165,43.167280002109,-88.033217977748,Granville Lutheran School,Private School,K-8,223,0.224,0.144,Meets Expectations,58.9,27.2,62.2,0.892,0.04,0,0.901,0.018
 2023-24,0000_1200,43.003770989833,-87.953707998597,Saint Rafael the Archangel School,Private School,K-8,281,0.381,0.418,Exceeds Expectations,79.6,48.7,93.6,0.804,0.021,0.804,0.007,0.979
 2023-24,0000_1205,43.019818981653,-87.944614974756007,Prince of Peace,Private School,K-8,341,0.312,0.316,Exceeds Expectations,82.2,43.4,92.5,0.827,0.032,0.61,0.012,0.982
 2023-24,0000_1218,43.114374979918,-87.934861959859,Eastbrook Academy,Private School,K-12,416,0.549,0.441,Meets Expectations,65.2,60.9,59.4,0.493,0,0,0.666,0.058
-2023-24,0000_1221,43.159409017842,-87.984159033738,King's Academy Christian School Inc,Private School*,K-8,142,0.394,0.283,Exceeds Expectations,77,34.9,87.8,1,0.014,0,0.923,0.021
-2023-24,0000_1263,42.996154019142,-87.895562987726,Atlas Preparatory Academy Inc,Private School*,K-12,421,0.086,0.045,Fails to Meet Expectations,27,18.3,51.8,0,0.019,0.2,0.375,0.561
+2023-24,0000_1221,43.159409017842,-87.984159033738,King's Academy Christian School Inc,Private School,K-8,142,0.394,0.283,Exceeds Expectations,77,34.9,87.8,1,0.014,0,0.923,0.021
+2023-24,0000_1263,42.996154019142,-87.895562987726,Atlas Preparatory Academy Inc,Private School,K-12,421,0.086,0.045,Fails to Meet Expectations,27,18.3,51.8,0,0.019,0.2,0.375,0.561
 2023-24,0000_1301,43.099233993841,-87.965800989403,Atonement Lutheran School,Private School,K-8,412,0.255,0.198,Exceeds Expectations,70.2,28.2,77.4,0.959,0.015,0,0.908,0.029
 2023-24,0000_1302,43.073354993515,-87.904891962141,Saint Philip's Lutheran School,Private School,K-8,92,0.353,0.382,Meets Expectations,65.7,44.3,64.1,0.924,0.054,0,0.75,0.141
-2023-24,0000_1303,43.091295996258,-87.945238001619,Believers in Christ Christian Academy,Private School*,K-12,161,0.162,0.101,Meets Expectations,63.9,22.2,67.9,0.975,0,0,0.932,0.025
-2023-24,0000_1304,42.987993984943,-87.964899012803,Blessed Sacrament Catholic School,Private School*,K-8,165,0.384,0.277,Meets Expectations,64.4,41.2,67,0.879,0.024,0.388,0.042,0.861
+2023-24,0000_1303,43.091295996258,-87.945238001619,Believers in Christ Christian Academy,Private School,K-12,161,0.162,0.101,Meets Expectations,63.9,22.2,67.9,0.975,0,0,0.932,0.025
+2023-24,0000_1304,42.987993984943,-87.964899012803,Blessed Sacrament Catholic School,Private School,K-8,165,0.384,0.277,Meets Expectations,64.4,41.2,67,0.879,0.024,0.388,0.042,0.861
 2023-24,0000_1305,43.016799987767,-87.941652977812,Christ St Peter Lutheran School,Private School,K-8,242,0.323,0.304,Exceeds Expectations,70.7,36.3,83.1,0.777,0.008,0.211,0.079,0.599
-2023-24,0000_1315,43.061514004628,-87.945782992964,Hope Christian School Prima,Private School*,K-8,583,0.082,0.078,Meets Few Expectations,57.1,16.4,66.9,0.919,0.014,0.003,0.961,0.017
+2023-24,0000_1315,43.061514004628,-87.945782992964,Hope Christian School Prima,Private School,K-8,583,0.082,0.078,Meets Few Expectations,57.1,16.4,66.9,0.919,0.014,0.003,0.961,0.017
 2023-24,0000_1327,43.162021992338,-88.037252020108,New Testament Christian Academy,Private School,K-8,151,0.59,0.333,Significantly Exceeds Expectations,83.1,61.3,87.9,0.656,0,0,0.947,0
 2023-24,0000_1345,43.184102020778,-88.028449010117,Greater Holy Temple Christian Academy,Private School,K-8,428,0.112,0.027,Meets Expectations,62.2,11.9,56.5,1,0.012,0,0.939,0.04
 2023-24,0000_1351,43.178636014079,-88.029681988074,Risen Savior Lutheran School,Private School,K-8,351,0.374,0.333,Significantly Exceeds Expectations,86.9,42.2,100,0.915,0.094,0.068,0.578,0.336
-2023-24,0000_1382,43.113431009982,-87.956031965071,Carter's Christian Academy Inc,Private School*,K-12,278,0,0.032,Meets Few Expectations,54.5,4.4,57.5,0.996,0.018,0,1,0
-2023-24,0000_1439,43.083008012307,-87.91769196648,Hope Christian School Fortis,Private School*,K-8,360,0.098,0.067,Meets Few Expectations,51.5,14.9,61.3,0.936,0.017,0,0.958,0.019
+2023-24,0000_1382,43.113431009982,-87.956031965071,Carter's Christian Academy Inc,Private School,K-12,278,0,0.032,Meets Few Expectations,54.5,4.4,57.5,0.996,0.018,0,1,0
+2023-24,0000_1439,43.083008012307,-87.91769196648,Hope Christian School Fortis,Private School,K-8,360,0.098,0.067,Meets Few Expectations,51.5,14.9,61.3,0.936,0.017,0,0.958,0.019
 2023-24,0000_1489,43.068083991794,-87.93228301589,Cross Trainers Academy,Private School,K-12,482,0.121,0.074,Meets Expectations,60.4,17,69.8,0.996,0.091,0.006,0.963,0.025
 2023-24,0000_1491,43.150041989586,-88.003394998612,Destiny High School,Private School,9-12,245,0.031,0.019,Exceeds Expectations,70.9,8.8,89.8,1,0.016,0.008,0.984,0.012
 2023-24,0000_1507,43.111383981589,-87.980763021848,Blessed Savior Catholic School,Private School,K-8,274,0.169,0.156,Exceeds Expectations,70.7,24.4,82.2,0.894,0.011,0,0.953,0.022
 2023-24,0000_1527,43.180305982558,-88.014759015299,Institute of Technology and Academics,Private School,K-8,210,0.419,0.24,Exceeds Expectations,81.6,27.6,95.4,0.995,0.005,0,0.971,0.014
 2023-24,0000_1575,43.147499003982,-87.962677976099,Northwest Catholic School,Private School,K-8,152,0.189,0.168,Meets Expectations,65.3,28.3,74.6,0.862,0.026,0,0.77,0.099
 2023-24,0000_1606,43.089859002777,-87.920384988152,Messmer Catholic Schools,Private School,K-12,1217,0.199,0.198,Meets Expectations,64.6,27.7,73.6,0.782,0.022,0.056,0.892,0.046
-2023-24,0000_1631,43.019308984754,-87.958021996523,El Puente High School,Private School*,9-12,88,0.042,0,Fails to Meet Expectations,30.4,27.6,NA,0.989,0.023,0.227,0.182,0.773
-2023-24,0000_1652,43.024557020061,-87.927470965277,Academy of Excellence,Private School*,K-12,2014,0.064,0.049,Meets Few Expectations,51.6,16.3,62.2,0.456,0.004,0.085,0.064,0.167
-2023-24,0000_1656,43.090315984138,-87.951762977965,Hope Christian School Semper,Private School*,K-8,572,0.086,0.083,Meets Few Expectations,57.1,18.9,67.9,0.969,0.009,0,0.97,0.019
+2023-24,0000_1631,43.019308984754,-87.958021996523,El Puente High School,Private School,9-12,88,0.042,0,Fails to Meet Expectations,30.4,27.6,NA,0.989,0.023,0.227,0.182,0.773
+2023-24,0000_1652,43.024557020061,-87.927470965277,Academy of Excellence,Private School,K-12,2014,0.064,0.049,Meets Few Expectations,51.6,16.3,62.2,0.456,0.004,0.085,0.064,0.167
+2023-24,0000_1656,43.090315984138,-87.951762977965,Hope Christian School Semper,Private School,K-8,572,0.086,0.083,Meets Few Expectations,57.1,18.9,67.9,0.969,0.009,0,0.97,0.019
 2023-24,0000_1702,43.085899014532004,-87.925051026011,Divine Destiny School,Private School,K-8,90,0.019,0,NR-DATA,NA,NA,NA,0.989,0,0,0.967,0.011
-2023-24,0000_1703,43.178436985788,-88.022385038446,Hope Christian School Caritas,Private School*,K-8,354,0.123,0.136,Meets Few Expectations,55.4,19.5,64.1,0.927,0.003,0,0.944,0.031
-2023-24,0000_1704,43.091041982682,-88.031114036232,Shining Star Christian Schools Inc,Private School*,K-8,208,0.079,0.059,Meets Expectations,58.6,15.2,68.9,0.981,0,0,0.875,0.072
+2023-24,0000_1703,43.178436985788,-88.022385038446,Hope Christian School Caritas,Private School,K-8,354,0.123,0.136,Meets Few Expectations,55.4,19.5,64.1,0.927,0.003,0,0.944,0.031
+2023-24,0000_1704,43.091041982682,-88.031114036232,Shining Star Christian Schools Inc,Private School,K-8,208,0.079,0.059,Meets Expectations,58.6,15.2,68.9,0.981,0,0,0.875,0.072
 2023-24,0000_1712,43.023573990457,-87.935497978672,Cristo Rey Jesuit Milwaukee High School,Private School,9-12,465,0.274,0.401,Meets Expectations,69.3,46.6,62.2,1,0.004,0.301,0.026,0.959
 2023-24,0000_1729,43.131020014701,-87.964466003685,Hope Christian School Fidelis,Private School,K-8,637,0.115,0.201,Exceeds Expectations,74.2,26.9,82.2,0.928,0.022,0,0.943,0.041
 2023-24,0000_1745,42.997390014584,-87.917364988438,Saint Augustine Preparatory Academy,Private School,K-12,1844,0.459,0.425,Significantly Exceeds Expectations,83.2,52.4,90.7,0.859,0.069,0.036,0.05,0.912
-2023-24,0000_1770,43.038160010724,-87.955778999234,Marquette University High School,Private School*,9-12,122,0.802,0.791,Exceeds Expectations,78.4,85.2,71.7,0.721,0,0,0.189,0.672
+2023-24,0000_1770,43.038160010724,-87.955778999234,Marquette University High School,Private School,9-12,122,0.802,0.791,Exceeds Expectations,78.4,85.2,71.7,0.721,0,0,0.189,0.672
 2023-24,0000_1774,43.064856522833,-88.007385391819,Kingdom Prep Lutheran High School,Private School,9-12,141,0.09,0.064,Meets Expectations,62.5,18.2,70.8,0.752,0.007,0,0.83,0.092
-2023-24,0000_1776,43.175187992479,-88.003407990562,The City School,Private School*,K-8,179,0.125,0.192,Exceeds Expectations,76.3,18.1,82.2,0.994,0,0,0.821,0.179
+2023-24,0000_1776,43.175187992479,-88.003407990562,The City School,Private School,K-8,179,0.125,0.192,Exceeds Expectations,76.3,18.1,82.2,0.994,0,0,0.821,0.179
 2023-24,0000_1796,42.992559984789,-87.92479403686,Victory Christian Academy,Private School,K-12,318,0.281,0.193,Meets Expectations,60.6,34.5,59.4,0.723,0.025,0.113,0.154,0.692
 2023-24,0000_1868,43.060934982757,-87.980364965266,Universal Scholars Academy,Private School,K-5,63,0.038,0.038,NR-DATA,NA,NA,NA,0.524,0,0,1,0
 2023-24,0000_1870,43.096375010487,-88.034103022904,Milwaukee Lutheran High School,Private School,9-12,920,0.144,0.128,Meets Few Expectations,56.5,27.7,49.8,0.821,0,0,0.868,0.048
 2023-24,0000_1873,43.13477799908,-88.047805003844,Milwaukee Seventh Day Adventist School,Private School,K-12,138,0.164,0.109,Meets Few Expectations,53.2,22.3,51.8,1,0,0.638,0.304,0.514
 2023-24,0000_1910,43.074138994829,-87.997811980544,Mother of Good Counsel School,Private School,K-8,182,0.473,0.127,Exceeds Expectations,80.1,41.3,88.7,0.791,0.005,0,0.742,0.082
-2023-24,0000_1930,43.071154995389,-87.979409009209,Mount Calvary Lutheran School,Private School*,K-8,179,0.171,0.094,Fails to Meet Expectations,43.7,23.3,38.5,0.994,0.017,0.106,0.927,0.028
+2023-24,0000_1930,43.071154995389,-87.979409009209,Mount Calvary Lutheran School,Private School,K-8,179,0.171,0.094,Fails to Meet Expectations,43.7,23.3,38.5,0.994,0.017,0.106,0.927,0.028
 2023-24,0000_1931,43.018336013434,-87.970407012836,Notre Dame School of Milwaukee,Private School,6-8,101,0.622,0.8,NR-DATA,NA,NA,NA,0.752,0.109,0.485,0.01,0.99
 2023-24,0000_1980,43.10520899161,-87.988256024191,Mount Lebanon Lutheran School,Private School,K-8,230,0.513,0.385,Significantly Exceeds Expectations,85.5,52.6,90.6,0.822,0.026,0,0.852,0.009
 2023-24,0000_1990,43.052443989111,-87.980526987454,Mount Olive Christian Day School,Private School,K-8,165,0.505,0.379,Exceeds Expectations,78,60.6,80.3,0.624,0.012,0,0.576,0.097
@@ -63,7 +63,7 @@ school_year,dpi_true_id,lat,long,school_name,accurate_agency_type,grade_band,sch
 2023-24,0000_3410,43.067110014645,-87.978004034598,Saint Catherine School,Private School,K-8,123,0.158,0.158,Meets Expectations,66.2,18,84.1,0.927,0.024,0,0.976,0.008
 2023-24,0000_3455,42.94263699229,-87.954560019055,Saint Charles Borromeo Catholic School,Private School,K-8,191,0.646,0.635,Exceeds Expectations,82.3,76.2,81.1,0.45,0.031,0.309,0.016,0.424
 2023-24,0000_3935,42.98749299859,-87.989582963283,Saint Gregory the Great Parish School,Private School,K-8,185,0.526,0.457,Significantly Exceeds Expectations,85.3,64.3,92.5,0.832,0.022,0.178,0.059,0.719
-2023-24,0000_4210,43.047781010646,-87.902979966208,Saint Joan Antida High School,Private School*,9-12,206,0.213,0.104,Meets Few Expectations,51.5,27.7,50.8,0.947,0,0.286,0.34,0.612
+2023-24,0000_4210,43.047781010646,-87.902979966208,Saint Joan Antida High School,Private School,9-12,206,0.213,0.104,Meets Few Expectations,51.5,27.7,50.8,0.947,0,0.286,0.34,0.612
 2023-24,0000_4655,42.971820013119,-87.998996008187,Saint John's Lutheran School,Private School,K-8,319,0.608,0.671,Significantly Exceeds Expectations,87.4,76.7,88.8,0.652,0.003,0.514,0.041,0.16
 2023-24,0000_4950,43.00259999605,-87.921611009129,Saint Josaphat Parish School,Private School,K-8,207,0.297,0.234,Meets Expectations,59.9,41.1,61.3,0.918,0.01,0.164,0.014,0.976
 2023-24,0000_5640,42.997681998181,-87.901067970275,Saint Lucas Lutheran School,Private School,K-8,167,0.671,0.644,Exceeds Expectations,82.4,75.3,80.3,0.419,0.03,0,0.078,0.222
@@ -76,10 +76,10 @@ school_year,dpi_true_id,lat,long,school_name,accurate_agency_type,grade_band,sch
 2023-24,0000_7720,43.053544870082,-87.981048567915,Saint Sebastian School,Private School,K-8,338,0.762,0.579,Significantly Exceeds Expectations,83.1,77.1,83.1,0.34,0.053,0.003,0.257,0.121
 2023-24,0000_7980,42.971591983443,-87.905602998988,Saint Thomas Aquinas Academy,Private School,K-8,223,0.726,0.758,Significantly Exceeds Expectations,94.8,92.6,94.4,0.372,0.009,0.175,0.018,0.417
 2023-24,0000_8075,42.958934010453,-87.929957959768,Salam School,Private School,K-12,1074,0.381,0.376,Exceeds Expectations,79.1,56.2,81.2,0.896,0,0.135,0.117,0
-2023-24,0000_8080,43.14177701396,-88.043865006437,Salem Evangelical Lutheran School,Private School*,K-8,175,0.372,0.298,Exceeds Expectations,73.5,41.9,78.4,0.749,0.017,0.011,0.726,0.086
+2023-24,0000_8080,43.14177701396,-88.043865006437,Salem Evangelical Lutheran School,Private School,K-8,175,0.372,0.298,Exceeds Expectations,73.5,41.9,78.4,0.749,0.017,0.011,0.726,0.086
 2023-24,0000_8217,43.085107008501,-87.938768010558,Siloah Lutheran School,Private School,K-8,93,0.071,0.071,Exceeds Expectations,72.4,20.5,74.6,0.968,0,0,0.978,0
-2023-24,0000_8224,42.989157979837,-87.93440397267,Saint Joseph Academy,Private School*,K-8,427,0.209,0.121,Meets Expectations,60.2,24,60.3,0.883,0.023,0.389,0.04,0.878
-2023-24,0000_8379,43.141255994859,-87.932858014448,Torah Academy of Milwaukee,Private School*,9-12,6,0.773,0.636,NR-DATA,NA,NA,NA,NA,NA,NA,0,0
+2023-24,0000_8224,42.989157979837,-87.93440397267,Saint Joseph Academy,Private School,K-8,427,0.209,0.121,Meets Expectations,60.2,24,60.3,0.883,0.023,0.389,0.04,0.878
+2023-24,0000_8379,43.141255994859,-87.932858014448,Torah Academy of Milwaukee,Private School,9-12,6,0.773,0.636,NR-DATA,NA,NA,NA,NA,NA,NA,0,0
 2023-24,0000_8720,43.033510226001,-88.016773686135,Wisconsin Lutheran High School,Private School,9-12,923,0.528,0.558,Exceeds Expectations,70.5,72.6,63.2,0.387,0,0.08,0.278,0.127
 2023-24,0000_8740,43.082280002107,-87.977727012698,Yeshiva Elementary School,Private School,K-8,205,0.615,0.538,Significantly Exceeds Expectations,88.6,69.9,88.8,0.654,0.015,0,0,0
 2023-24,3619_0006,43.047767012868,-87.901583960234,Lincoln Middle,Milwaukee Public School,6-8,308,0.086,0.031,Fails to Meet Expectations,47.2,12,54.6,0.925,0.224,0.094,0.675,0.234
@@ -247,10 +247,10 @@ school_year,dpi_true_id,lat,long,school_name,accurate_agency_type,grade_band,sch
 2023-24,8026_8131,43.023830015689,-87.959808012452,Escuela Verde,Public Charter School,9-12,120,0.169,0.06,Meets Few Expectations,55.9,18.2,53.7,0.817,0.258,0.408,0.058,0.85
 2023-24,8027_8136,43.000557996799,-87.925261998514,Stellar Collegiate Charter School,Public Charter School,K-5,217,0.214,0.367,Meets Few Expectations,55.9,28.6,62.2,0.982,0.175,0.373,0.138,0.783
 2023-24,8027_8152,43.000333990436,-87.931563010407,Carmen Middle School South,Public Charter School,6-8,206,0.27,0.276,Meets Expectations,63.6,34.5,73.6,0.99,0.121,0.481,0.15,0.772
-2023-24,0000_1743,43.042477990055,-87.940912017571,CERT School,Private School*,9-12,3,NA,NA,NR-DATA,NA,NA,NA,NA,NA,NA,1,0
-2023-24,0000_1384,43.089056016453,-87.930200029132,Christian Faith Academy of Higher Learning,Private School*,K-8,25,NA,NA,NR-DATA,NA,NA,NA,0.24,0,0,0.96,0
-2023-24,0000_1923,43.077445990908,-88.019594032327,First Immanuel Lutheran School,Private School*,K-8,6,NA,NA,NR-DATA,NA,NA,NA,NA,NA,NA,0,0
-2023-24,0000_1684,43.06046199196,-87.974429991084,Jo's Learning Academy,Private School*,K-5,78,NA,NA,NR-DATA,NA,NA,NA,0.179,0.013,0,1,0
+2023-24,0000_1743,43.042477990055,-87.940912017571,CERT School,Private School,9-12,3,NA,NA,NR-DATA,NA,NA,NA,NA,NA,NA,1,0
+2023-24,0000_1384,43.089056016453,-87.930200029132,Christian Faith Academy of Higher Learning,Private School,K-8,25,NA,NA,NR-DATA,NA,NA,NA,0.24,0,0,0.96,0
+2023-24,0000_1923,43.077445990908,-88.019594032327,First Immanuel Lutheran School,Private School,K-8,6,NA,NA,NR-DATA,NA,NA,NA,NA,NA,NA,0,0
+2023-24,0000_1684,43.06046199196,-87.974429991084,Jo's Learning Academy,Private School,K-5,78,NA,NA,NR-DATA,NA,NA,NA,0.179,0.013,0,1,0
 2023-24,0000_1374,43.076070017682,-87.911449963186,Malaika Early Learning Center,Private School,K-5,87,NA,NA,NR-DATA,NA,NA,NA,1,0.034,0,1,0
 2023-24,3619_1063,43.102114015772,-87.957239964957,ASSATA High,Partnership,9-12,116,NA,NA,Fails to Meet Expectations,12.9,7.2,NA,0.871,0.19,0.009,0.897,0.06
 2023-24,3619_0432,43.102114015772,-87.957239964957,Banner Preparatory School of Milwaukee,Partnership,9-12,44,NA,NA,Alternate Rating - Needs Improvement,NA,NA,NA,0.977,0.227,0,0.977,0.023
@@ -261,9 +261,8 @@ school_year,dpi_true_id,lat,long,school_name,accurate_agency_type,grade_band,sch
 2023-24,3619_1074,43.053813005357,-87.933197984441,Shalom High,Partnership,9-12,110,NA,NA,Fails to Meet Expectations,8.6,2.3,NA,0.873,0.209,0,0.918,0.009
 2023-24,3619_1086,43.094465990129,-87.906035002277,Southeastern,Partnership,6-8,16,NA,NA,Alternate Rating - Needs Improvement,NA,NA,NA,NA,NA,NA,0.813,0.063
 2023-24,0000_1530,43.084288012741,-87.967866960898,Right Step Inc,Private School,6-12,NA,NA,NA,NR-DATA,NA,NA,NA,NA,NA,NA,NA,NA
-2023-24,0000_1909,43.094905998136,-87.943075973514,Up Christian Academy Inc,Private School*,K-5,45,NA,NA,NR-DATA,NA,NA,NA,1,0,0,0.911,0
+2023-24,0000_1909,43.094905998136,-87.943075973514,Up Christian Academy Inc,Private School,K-5,45,NA,NA,NR-DATA,NA,NA,NA,1,0,0,0.911,0
 2023-24,8025_8151,43.046854014065,-87.925448998774,UpGrade Media Arts Schools,Public Charter School,6-12,10,NA,NA,Alternate Rating - Satisfactory Progress,NA,NA,NA,NA,NA,NA,0.9,0.1
 2023-24,3619_0115,43.061817010428,-87.923781000042,Grant Gordon Learning Center,Milwaukee Public School,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023-24,3619_1141,43.065002007906,-87.950639970578,Next Door Charter,Public Charter School,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023-24,0000_3580,43.053684007867,-87.981524014837,Saint Coletta Day School,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023-24,3619_0149,43.059454990113,-87.946751018961,Starms Early Childhood,Milwaukee Public School,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

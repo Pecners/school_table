@@ -24,6 +24,9 @@ clean |>
 d <- read_rds("data/milwaukee_schools_2024.rda")
 
 d |> 
+  mutate(accurate_agency_type = str_remove(accurate_agency_type, "\\*")) |>
+  filter(!is.na(accurate_agency_type)) |> 
+  group_by(accurate_agency_type) |> 
   left_join(geocodes) |> 
   select(school_year,
          dpi_true_id,
