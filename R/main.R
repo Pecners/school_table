@@ -10,7 +10,7 @@ library(htmltools)
 source("R/styles.R")
 
 
-d <- read_rds("data/milwaukee_schools_2024.rda")
+d <- read_rds("data/milwaukee_schools_2025.rda")
 star <- "\u2605"
 d <- d |> 
   arrange(desc(overall_score)) |> 
@@ -25,6 +25,8 @@ d <- d |>
 
 clean <- d |> 
   select(-c(school_year, dpi_true_id))
+
+source("R/write_table_for_export.R")
 
 
 
