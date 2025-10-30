@@ -227,12 +227,12 @@ all_prof <- all_prof_tmp |>
 #   pivot_wider(names_from = test_subject, values_from = total_count, 
 #               names_prefix = "count_")
 
-all_prof_tmp |> 
-  select(-total_count) |>
-  filter(pa != "REDACTED") |> 
-  pivot_wider(names_from = pa, values_from = perc) |> 
-  filter(!(is.na(bb) & is.na(pa) & is.na(no_test))) |> 
-  filter(no_test == 1)
+# all_prof_tmp |> 
+#   select(-total_count) |>
+#   filter(pa != "REDACTED") |> 
+#   pivot_wider(names_from = pa, values_from = perc) |> 
+#   filter(!(is.na(bb) & is.na(pa) & is.na(no_test))) |> 
+#   filter(no_test == 1)
   
 
 prof_counts <- all_prof_tmp |> 
@@ -241,7 +241,7 @@ prof_counts <- all_prof_tmp |>
   pivot_wider(names_from = pa, values_from = total_count,
               values_fill = NA) |> 
   filter(!(is.na(bb) & is.na(pa) & is.na(no_test))) |> 
-  filter(sum(c(bb, no_test, pa), na.rm = TRUE) != no_test) |> 
+  filter(is.na(no_test) | sum(c(bb, no_test, pa), na.rm = TRUE) != no_test) |> 
   mutate_at(c("bb", "no_test", "pa"), function(x) replace_na(x, 0)) |> 
   select(-c(bb, no_test)) |>
   mutate(pa = round(pa, 3)) |> 
@@ -288,17 +288,16 @@ xx <- all_prof |>
   mutate(accurate_agency_type = case_when(accurate_agency_type %in% mps ~ "Traditional Public School",
                                           accurate_agency_type %in% charters ~ "Public Charter School",
                                           accurate_agency_type == "Private" ~ "Private School",
-                                          TRUE ~ accurate_agency_type),
-         accurate_agency_type = ifelse(
-           accurate_agency_type == "Private School" &
-             report_card_type == "Private - Choice Students",
-           "Private School*", accurate_agency_type
-         )) |> 
-  mutate(accurate_agency_type = str_remove(accurate_agency_type, "\\*")) |>
+                                          TRUE ~ accurate_agency_type)) |> 
   filter(!is.na(accurate_agency_type)) |> 
   group_by(accurate_agency_type) |> 
   left_join(geocodes |> 
               select(-school_year)) |> 
+  mutate(accurate_agency_type = ifelse(
+    accurate_agency_type == "Private School" &
+      report_card_type == "Private - Choice Students",
+    "Private School*", accurate_agency_type
+  )) |> 
   select(school_year,
          dpi_true_id,
          lat,

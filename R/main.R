@@ -59,11 +59,13 @@ tbl <- clean |>
                          )),
     accurate_agency_type = colDef(name = "Sector",
                                   minWidth = 100,
+                                  searchable = TRUE,
                                   style = list(
                                     fontSize = ".75rem",
                                     backgroundColor = "white"
                                   )),
     grade_band = colDef(name = "Grade Band",
+                        searchable = TRUE,
                         minWidth = 80,
                         headerStyle = list(
                           fontSize = ".6rem",
@@ -166,7 +168,7 @@ tbl <- clean |>
                              fontSize = ".7rem"
                            )),
     language = reactableLang(
-      searchPlaceholder = "Search for a school",
+      searchPlaceholder = "Search for a school, sector, or grade band",
       noData = "No schools found"),
     theme = reactableTheme(backgroundColor = "transparent", 
                            searchInputStyle = list(
