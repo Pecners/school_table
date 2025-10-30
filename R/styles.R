@@ -118,7 +118,7 @@ big_col_style <- list(
 
 group_head_style <- list(
   fontWeight = 700,
-  fontSize = "1em"
+  fontSize = ".75em"
 )
 
 with_tooltip <- function(value, tooltip) {

@@ -175,7 +175,8 @@ tbl <- clean |>
                              border = "none",
                              backgroundSize = "1rem",
                              backgroundPosition = "left 0.5rem center",
-                             backgroundRepeat = "no-repeat"
+                             backgroundRepeat = "no-repeat",
+                             backgroundColor = "#ecf2fa"
                            )),
     elementId = "schools-table")
 
