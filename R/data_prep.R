@@ -3,7 +3,7 @@ library(wisconsink12)
 library(scales)
 
 sy <- "2024-25"
-sy2 <- "2023-24"
+sy2 <- "2024-25"
 
 mps <- c("Traditional Public",
          "Instrumentality Charter",
